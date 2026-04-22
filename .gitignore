@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Logs and output
+*.log
+*.csv
+reports/
+output/
+
+# Secrets — NEVER commit these
+*.env
+.env
+secrets.json
+credentials.json
+config.local.*
+
+# Backup archive files (if generated in repo dir)
+*.tar.gz
+*.zip
+*.bak
