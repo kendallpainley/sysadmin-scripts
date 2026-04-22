@@ -1,4 +1,4 @@
-# 🖥️ SysAdmin Scripts Repository
+# SysAdmin Scripts Repository
 
 > A collection of **PowerShell**, **Bash**, and **Python** scripts for system administration and automation.
 
